@@ -3,7 +3,7 @@
 | Property | Value |
 | -------- | ----- |
 | Mandatory | No |
-| Location | Place |
+| Location | Somewhere within `<body>` |
 | Must be closed | No |
 
 ## About
