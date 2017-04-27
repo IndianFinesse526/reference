@@ -26,3 +26,8 @@ Here are some tips and tricks on using `<a>`.
 
 ### Open link in new tab
 Set the `target` argument to `_blank` to open the link in a new tab.
+
+#### Usage
+```
+<a href="[url]" target="_blank">[text]</a>
+```
