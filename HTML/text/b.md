@@ -8,7 +8,7 @@
 | Must be closed | Yes |
 
 ## About
-Makes the wrapped text bold
+This tag makes the wrapped text bold.
 
 ## Usage
 ```

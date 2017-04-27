@@ -7,3 +7,4 @@
 | [Body](body) | This wraps all your page content and enables the usage of the scripts loaded from your `<head>`. |
 | [Head](head) | This tag allows you to set meta data, fetch resources, and enable SEO. |
 | [Br](br) | Inserts a line break. |
+| [Div](div) | View [issue #2](https://github.com/maxbycodeorg/reference/issues/2) |

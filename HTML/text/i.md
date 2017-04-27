@@ -7,7 +7,7 @@
 | Must be closed | No |
 
 ## About
-Makes the wrapped text italicized
+This tag makes the wrapped text italicized.
 
 ## Usage
 ```

@@ -7,7 +7,7 @@
 | Must be closed | Yes |
 
 ## About
-This tag creates a link 
+This tag creates a link.
 
 ## Arguments
 | Argument | Description | Type | Mandatory |
